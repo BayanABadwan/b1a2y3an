@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.DivTop
+{
+    background-color: rgb(243, 16, 122);
+    color: whitesmoke;
+    display: flex;
+    height: 15%;
+    
+    
+}
+.DivUpperLeft
+{
+    width: 25%;
+}
+.DivUpperRight ul
+{
+    list-style-type: none;
+    display: flex;
+    gap: 12px;;
+    justify-content: space-between;
+    
+   
+    
+    
+  
+}
+.DivUpperRight ul a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+ .DivTop .container
+{
+   
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+
+}
+.container
+{
+    width: 85%;
+    margin: auto;
+}
+.TheLargestDiv
+{
+    height: 83%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: pink;
+    
+}
+.SmallDiv
+{
+    background-color:  rgb(243, 16, 122);;
+    height: 110px;
+    border-top: 1px solid  black;
+    border-radius: 5%;
+
+    
+   
+   
+}
+
+.SmallDiv h2
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+    padding-left: 10px;
+    
+}
+p
+{
+    color: whitesmoke;
+    padding-left:10px ;
+    
+}
